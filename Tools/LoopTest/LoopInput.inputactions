@@ -1,0 +1,259 @@
+{
+    "name": "LoopInput",
+    "maps": [
+        {
+            "name": "JoyCon Input",
+            "id": "a6c76e53-c096-42bf-9b4b-68c1e15a651a",
+            "actions": [
+                {
+                    "name": "Start Recording",
+                    "type": "Button",
+                    "id": "bbe9fd81-0a23-4ffe-bf0d-6236820bd84b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Stop Recording",
+                    "type": "Button",
+                    "id": "4eb8d652-b3cd-4289-a7f9-81803cbaedde",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Reset",
+                    "type": "Button",
+                    "id": "4af84b14-0a71-4316-be4e-558bfa89e7ae",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ControlReproductionSpeed",
+                    "type": "Button",
+                    "id": "c22b0f48-a311-4e1f-8285-70a2b257ab24",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "451ceb27-e4f3-45bb-b061-7045c2dfec78",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button16",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start Recording",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "744c0d1e-3e7b-49db-884d-64ac1c013dd2",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button15",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start Recording",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c4c9aee6-cc9b-4094-a31a-ba3b4f63321b",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button16",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start Recording",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "66acbee6-d8a6-45f0-a259-3b838b774414",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button15",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start Recording",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d957060f-0a13-4a49-a315-bef8267c9bb4",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Start Recording",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ac62b1a1-71c8-4b58-897e-243d40a6f0a5",
+                    "path": "<HID::Nintendo Wireless Gamepad>/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Stop Recording",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a8f73457-25e7-4e64-8b14-d3d50b8a8e5f",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Stop Recording",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "df76ae03-1abf-4c1d-aa54-b88713f221bf",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Stop Recording",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b3c4d5bf-a3cb-49aa-a0ae-3945fca53602",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Stop Recording",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4b52661c-20a7-4cf9-bd95-bda3a96893fa",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Stop Recording",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "033c842a-e3ca-4beb-a121-5d47d9e0f4bb",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Stop Recording",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8cf26dd9-d54a-4c9a-9a7e-526ae3f9e97e",
+                    "path": "<HID::Nintendo Wireless Gamepad>/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Stop Recording",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6524ece2-fc64-4089-b1c5-cd62dc909316",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Stop Recording",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "892d0028-e02d-41f8-819c-e5c73edb7bb0",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button9",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Reset",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7c44805c-f3a0-4d05-8077-6c0867b1ae6f",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button10",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Reset",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fe893a98-a7c8-4bb6-993e-9640a58f8b46",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Reset",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2ae93834-7675-41f1-aab6-1ef00c504d34",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button13",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ControlReproductionSpeed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cc6283ad-2eca-4a09-aaf8-7fbabf4f4954",
+                    "path": "<HID::Nintendo Wireless Gamepad>/button14",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ControlReproductionSpeed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d60aa4c2-f67f-42be-8320-2806e9432b7b",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ControlReproductionSpeed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
